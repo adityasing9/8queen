@@ -31,7 +31,7 @@ npm start
 
 ## 📸 Preview
 
-(Add screenshots here)
+![Preview](demo.png)
 
 ## 🌍 Future Improvements
 
